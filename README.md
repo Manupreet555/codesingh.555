@@ -1,3 +1,4 @@
 # codesingh.555
-this is my first repo
-author manpreet
+this is my first rep
+author manpreetSingh
+
